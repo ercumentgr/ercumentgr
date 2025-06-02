@@ -1,4 +1,4 @@
-![MasterHead](https://blog.communicationcrafts.com/wp-content/uploads/sites/2/2023/02/Everything-worth-knowing-about-Full-Stack-Development_banner.png)
+[![MasterHead](https://raw.githubusercontent.com/SakNoelCode/Imagenes_Proyectos/master/banner.jpg)]
 <h1 align="center">Hi 👋, I'm Ercüment Gür</h1>
 <h3 align="center">3rd Year Software Engineering Student</h3>
 
